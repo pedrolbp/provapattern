@@ -1,0 +1,5 @@
+Erro: Falha na conexão com o banco de dados
+Evento: Usuário logado
+Auditoria: Transação processada
+Log from thread 1
+Log from thread 2
